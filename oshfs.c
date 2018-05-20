@@ -8,7 +8,7 @@
 #define MAX_NAME 255
 #define blocknr 16384U
 #define blocksize 1024*256U
-#define pagehead 40
+#define pagehead 16
 
 #define min(a,b) (((a)<(b))?(a):(b))
 
